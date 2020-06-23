@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451429117812",
+    "firebase_url": "https://fir-67929.firebaseio.com",
+    "project_id": "fir-67929",
+    "storage_bucket": "fir-67929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451429117812:android:3a3529f8c9d8ccb6218621",
+        "android_client_info": {
+          "package_name": "com.king"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451429117812-f7atq63nop9p868d0rvgc7odvjl08v3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTu61crtsBUNg6O06fPJz0XzhX8qYYtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451429117812-f7atq63nop9p868d0rvgc7odvjl08v3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
